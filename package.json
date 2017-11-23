@@ -1,0 +1,15 @@
+{
+  "name": "hoodie-test",
+  "version": "1.0.0",
+  "description": "Playing through the guide at http://docs.hood.ie/en/latest/guides/quickstart.html",
+  "main": "index.js",
+  "repository": "github.com/chadoh/hoodie-test",
+  "author": "Chad Ostrowski <hi@chadoh.com> (https://chadoh.com)",
+  "license": "MIT",
+  "scripts": {
+    "start": "hoodie"
+  },
+  "dependencies": {
+    "hoodie": "^28.2.2"
+  }
+}
